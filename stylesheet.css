@@ -1,6 +1,7 @@
 @font-face {
-    font-family: 'Mont-Heavy';
+    font-family: 'Mont';
     src: url('https://cdn.rawgit.com/Makkhus/Mont/main/Mont-Heavy.eot');
+    src: local('Mont Heavy'), local('Mont-Heavy'),
          url('https://cdn.rawgit.com/Makkhus/Mont/main/Mont-Heavy.eot?#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/Makkhus/Mont/main/Mont-Heavy.woff') format('woff'),
          url('https://cdn.rawgit.com/Makkhus/Mont/main/Mont-Heavy.ttf') format('truetype');
