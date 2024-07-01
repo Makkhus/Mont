@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mont-Heavy';
+    src: url('https://cdn.rawgit.com/Makkhus/font/main/Mont-Heavy.eot');
+        url('https://cdn.rawgit.com/Makkhus/font/main/Mont-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.rawgit.com/Makkhus/font/main/Mont-Heavy.woff') format('woff'),
+        url('https://cdn.rawgit.com/Makkhus/font/main/Mont-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
